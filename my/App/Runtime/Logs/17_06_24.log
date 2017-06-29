@@ -1,0 +1,26 @@
+[ 2017-06-24T15:06:19+08:00 ] ERR: (ThinkException) XML标签语法错误 : file="__ROOT__/Public/erweima.php">
+      标题为:{$my1.title}<br>
+      百度云盘链接:<a href="{$my1.link}" target="_blank">{$my1.link}</a><br>
+      <p>文本框中可以自定义网址或词语 文本框失去焦点后二维码会发生改变 网页刷新后二维码恢复到初始状态 鼠标移动到二维码上可以显示二维码的内容</p>
+      <input id="text" type="text" value="{$my1.link}" style="width: 80%"
+[ 2017-06-24T15:06:42+08:00 ] ERR: (ThinkException) XML标签语法错误 : file="__ROOT__/Public/erweima">
+      标题为:{$my1.title}<br>
+      百度云盘链接:<a href="{$my1.link}" target="_blank">{$my1.link}</a><br>
+      <p>文本框中可以自定义网址或词语 文本框失去焦点后二维码会发生改变 网页刷新后二维码恢复到初始状态 鼠标移动到二维码上可以显示二维码的内容</p>
+      <input id="text" type="text" value="{$my1.link}" style="width: 80%"
+[ 2017-06-24T15:07:14+08:00 ] ERR: (ThinkException) XML标签语法错误 : file="__ROOT__/Public/erweima">
+      标题为:{$my1.title}<br>
+      百度云盘链接:<a href="{$my1.link}" target="_blank">{$my1.link}</a><br>
+      <p>文本框中可以自定义网址或词语 文本框失去焦点后二维码会发生改变 网页刷新后二维码恢复到初始状态 鼠标移动到二维码上可以显示二维码的内容</p>
+      <input id="text" type="text" value="{$my1.link}" style="width: 80%"
+[ 2017-06-24T15:07:27+08:00 ] ERR: (ThinkException) XML标签语法错误 : file="erweima">
+      标题为:{$my1.title}<br>
+      百度云盘链接:<a href="{$my1.link}" target="_blank">{$my1.link}</a><br>
+      <p>文本框中可以自定义网址或词语 文本框失去焦点后二维码会发生改变 网页刷新后二维码恢复到初始状态 鼠标移动到二维码上可以显示二维码的内容</p>
+      <input id="text" type="text" value="{$my1.link}" style="width: 80%"
+[ 2017-06-24T15:08:40+08:00 ] ERR: (ThinkException) XML标签语法错误 : file="erweima">
+      标题为:{$my1.title}<br>
+      百度云盘链接:<a href="{$my1.link}" target="_blank">{$my1.link}</a><br>
+      <p>文本框中可以自定义网址或词语 文本框失去焦点后二维码会发生改变 网页刷新后二维码恢复到初始状态 鼠标移动到二维码上可以显示二维码的内容</p>
+      <input id="text" type="text" value="{$my1.link}" style="width: 80%"
+[ 2017-06-24T15:08:42+08:00 ] ERR: (ThinkException) 非法操作{$my1.link}

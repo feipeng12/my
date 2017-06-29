@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>update</title>
+</head>
+<body>
+<form method="post" action="__URL__/update">
+	<table border="2" cellspacing="0" cellpadding="0">
+		<foreach name='select' item='my1' >
+			<tr>
+				<td>名称：</td>
+				<td>
+					<input type="hidden" name="id" id="hiddenField" value="{$user.id}">
+					<input type="text" name="user" size="20" value="{$user.user}">
+				</td>
+			</tr>
+			<tr>
+				<td>密码：</td>
+				<td><input type="password" name="pass" id="pass" size="20" value="{$user.pass}"></td>
+			</tr>
+			<tr>
+				<td>地址：</td>
+				<td><input type="text" name="address" id="address" size="20" value="{$user.address}"></td>
+			</tr>
+			<tr>
+				<td colspan="2" align="center">
+					<input type="submit" value="更新">
+				</td>
+			</tr>
+		</foreach>
+	</table>
+</form>
+</body>
+</html>
